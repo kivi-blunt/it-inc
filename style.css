@@ -1,0 +1,10 @@
+input[type=submit] {
+   
+    background: green; 
+    
+}
+input[type=search] {
+    padding:15px 35px; 
+    border-color: red;
+    
+}
